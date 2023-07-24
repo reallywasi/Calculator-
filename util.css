@@ -1,0 +1,40 @@
+.text-center {
+  text-align: center;
+}
+.bg-red {
+  background-color: brown;
+}
+
+.mx-auto {
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+}
+.items-center {
+  align-items: center;
+  justify-content: center;
+}
+.row {
+  margin: 10px 0;
+}
+.row input {
+  margin: 0;
+  padding: 0;
+  width: 280px;
+  height: 30px;
+  border: 2px solid black;
+  text-shadow: aqua;
+  text-align: center;
+  font-size: 18px;
+}
+.button {
+  padding: 20px;
+  margin: 0 10px;
+  border: 2px solid black;
+  border-radius: 12%;
+  cursor: pointer;
+  background-color: yellowgreen;
+}
